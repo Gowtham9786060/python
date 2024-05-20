@@ -1,0 +1,3 @@
+x, Y = map(int, input().split())
+customers_served = X * Y
+print(customers_served)
